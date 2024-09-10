@@ -1,3 +1,5 @@
+
+
 Q1: Why might be consider using git?
 
 Answer: Git is easy and cheap to branch and it allows for simultaneous 
@@ -9,3 +11,9 @@ might help
 Answer: Anything that involves data. An example could be studying an animal's 
 feeding habits, and data science can be used to organize data and quickly find 
 patterns.  
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging remembers the entire history of both branches while rebasing 
+rewrites history to be linear
