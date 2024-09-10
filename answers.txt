@@ -1,0 +1,11 @@
+Q1: Why might be consider using git?
+
+Answer: Git is easy and cheap to branch and it allows for simultaneous 
+collaboration.
+
+Q2: What field could data science be applied to? Give and Example and how it 
+might help
+
+Answer: Anything that involves data. An example could be studying an animal's 
+feeding habits, and data science can be used to organize data and quickly find 
+patterns.  
